@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @mmaaza
+- 👀 I’m interested in Web Technologies. Laravel PHP Developer
+- 🌱 I’m currently learning MERN
+- 💞️ I’m looking to collaborate on Laravel and JS Projects
+- 📫 How to reach me: mmaaz990ahmad@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I love Watching f1 (Formula 1) Race and casually watch cricket
