@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mmaaza
-- 💼 Vice-President at DevConnect && Technical Lead at Computer Science Society (CSS) 
+- 💼 Technical Lead at GDGoC-IIUI & Computer Science Society (CSS) 
 - 👀 I’m interested in Web Technologies. Laravel PHP Developer
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on Laravel and JS Projects
