@@ -2,7 +2,7 @@
 - 💼 Technical Lead at GDGoC-IIUI & Computer Science Society (CSS) 
 - 👀 I’m interested in Web Technologies. MERN Developer
 - 🌱 I’m currently learning GenAI
-- 💞️ I’m looking to collaborate on Laravel and JS Projects
+- 💞️ I’m looking to collaborate on Different Web Projects
 - 📫 How to reach me: mmaaz990ahmad@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love Watching f1 (Formula 1) Race and casually watch cricket
