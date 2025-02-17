@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmaaza
 - 💼 Technical Lead at GDGoC-IIUI & Computer Science Society (CSS) 
-- 👀 I’m interested in Web Technologies. Laravel PHP Developer
-- 🌱 I’m currently learning MERN
+- 👀 I’m interested in Web Technologies. MERN Developer
+- 🌱 I’m currently learning GenAI
 - 💞️ I’m looking to collaborate on Laravel and JS Projects
 - 📫 How to reach me: mmaaz990ahmad@gmail.com
 - 😄 Pronouns: ...
